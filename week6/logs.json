@@ -1,0 +1,22 @@
+[
+  {
+    "level": "INFO",
+    "message": "Server started"
+  },
+  {
+    "level": "ERROR",
+    "message": "Database connection failed"
+  },
+  {
+    "level": "INFO",
+    "message": "User logged in"
+  },
+  {
+    "level": "ERROR",
+    "message": "File not found"
+  },
+  {
+    "level": "WARNING",
+    "message": "High memory usage"
+  }
+]
